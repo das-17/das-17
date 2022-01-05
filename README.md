@@ -1,5 +1,5 @@
  - 👋 Hello there, my name is Rohit Das 
- - 🌱 Im currently pursuing my Masters in Computer Science and Engineering from UC SANTA CRUZ
+ - 🌱 Im currently pursuing my Masters in Computer Science and Engineering from UC SANTA CRUZ.
  - 👀 Interested in Distributed Systems,Database Systems and Software Development.
  - 🤔 Looking to collaborate on projects to learn and contribute more to the world of computing.
  - 📫 How to reach me:[d.rohit98@gmail.com](mailto:d.rohit98@gmail.com)
